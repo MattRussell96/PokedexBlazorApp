@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokedex.BlazorWASM", "Pokedex.BlazorWASM\Pokedex.BlazorWASM.csproj", "{2FB6173D-321E-40D0-B5ED-3F0592164B2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FB6173D-321E-40D0-B5ED-3F0592164B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FB6173D-321E-40D0-B5ED-3F0592164B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FB6173D-321E-40D0-B5ED-3F0592164B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FB6173D-321E-40D0-B5ED-3F0592164B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F80E7AD-3144-43D3-8772-C2C5AD830B61}
+	EndGlobalSection
+EndGlobal
